@@ -3,7 +3,7 @@
   "name": "accounting-dimensions-and-tracking-api",
   "display_name": "Accounting Dimensions and Tracking API",
   "description": "HTTP presentation for accounting dimensions and tracking.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\DimensionsApi\\DimensionsApiServiceProvider",
   "requires": {
